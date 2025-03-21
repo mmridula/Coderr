@@ -1,5 +1,5 @@
-<font color="#f79646">Deployed Link -</font> https://coderrr.vercel.app/
-<font color="#f79646">github Repository link -</font> [Coderrr](https://github.com/yashkumar2603/Coderrr)
+<font color="#f79646">Deployed Link -</font> [Coderrr](https://coderrrr.vercel.app/)
+<font color="#f79646">github Repository link -</font> [Coderrr](https://github.com/mmridula/Coderr)
 
 **Collaborative IDE with Real-Time Code Sync and Execution**
 
